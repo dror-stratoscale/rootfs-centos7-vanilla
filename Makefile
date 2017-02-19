@@ -1,4 +1,4 @@
-CENTOS_RELEASE_RPM_NAME = centos-release-7-0.1406.el7.centos.2.5.x86_64.rpm
+CENTOS_RELEASE_RPM_NAME = yumfreeze.com.s3-website-us-east-1.amazonaws.com/centos-release-7-0.1406.el7.centos.2.5.x86_64.rpm
 ROOTFS = build/root
 
 all: $(ROOTFS)
